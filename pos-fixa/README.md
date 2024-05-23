@@ -1,4 +1,4 @@
-Atividade Avaliativa - Karen e Leonardo 
+Atividade Avaliativa 
 
 Exercício
 
@@ -8,6 +8,3 @@ código fonte explicando o funcionamento. Gravar um vídeo disponibilizado
 no youtube mostrando o funcionamento e sua explicação.
 
 
-Link da vercel - https://avaliacao-pos-fixa.vercel.app/
-
-Link do youtube - https://www.youtube.com/watch?v=pal32YvRP3k&feature=youtu.be
