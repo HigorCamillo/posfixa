@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f5ff; /* azul claro */
+    padding: 20px;
+}
+
+h1 {
+    color: #1a237e; /* azul escuro */
+}
+
+form {
+    display: inline-block;
+    margin-top: 20px;
+    text-align: left; /* alinhar conteúdo do formulário à esquerda */
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input[type="text"] {
+    width: 200px;
+    padding: 5px;
+    font-size: 16px;
+    border: 1px solid #64b5f6; /* azul claro */
+    border-radius: 3px;
+    margin-bottom: 10px; /* espaço abaixo do input */
+}
+
+button {
+    display: block;
+    margin: 0 auto; /* centralizar o botão */
+    margin-top: 10px;
+    padding: 5px 10px;
+    font-size: 16px;
+    background-color: #1976d2; /* azul */
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #42a5f5; /* azul claro no hover */
+}
+
+#resultado {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #1a237e; /* azul escuro */
+}
